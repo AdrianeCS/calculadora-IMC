@@ -1,0 +1,15 @@
+C:\Users\geniv\Documents\aula-pc1\calculadora-IMC\bin\Debug\net6.0\calculadora-IMC.exe
+C:\Users\geniv\Documents\aula-pc1\calculadora-IMC\bin\Debug\net6.0\calculadora-IMC.deps.json
+C:\Users\geniv\Documents\aula-pc1\calculadora-IMC\bin\Debug\net6.0\calculadora-IMC.runtimeconfig.json
+C:\Users\geniv\Documents\aula-pc1\calculadora-IMC\bin\Debug\net6.0\calculadora-IMC.dll
+C:\Users\geniv\Documents\aula-pc1\calculadora-IMC\bin\Debug\net6.0\calculadora-IMC.pdb
+C:\Users\geniv\Documents\aula-pc1\calculadora-IMC\obj\Debug\net6.0\calculadora-IMC.csproj.AssemblyReference.cache
+C:\Users\geniv\Documents\aula-pc1\calculadora-IMC\obj\Debug\net6.0\calculadora-IMC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\geniv\Documents\aula-pc1\calculadora-IMC\obj\Debug\net6.0\calculadora-IMC.AssemblyInfoInputs.cache
+C:\Users\geniv\Documents\aula-pc1\calculadora-IMC\obj\Debug\net6.0\calculadora-IMC.AssemblyInfo.cs
+C:\Users\geniv\Documents\aula-pc1\calculadora-IMC\obj\Debug\net6.0\calculadora-IMC.csproj.CoreCompileInputs.cache
+C:\Users\geniv\Documents\aula-pc1\calculadora-IMC\obj\Debug\net6.0\calculadora-IMC.dll
+C:\Users\geniv\Documents\aula-pc1\calculadora-IMC\obj\Debug\net6.0\refint\calculadora-IMC.dll
+C:\Users\geniv\Documents\aula-pc1\calculadora-IMC\obj\Debug\net6.0\calculadora-IMC.pdb
+C:\Users\geniv\Documents\aula-pc1\calculadora-IMC\obj\Debug\net6.0\calculadora-IMC.genruntimeconfig.cache
+C:\Users\geniv\Documents\aula-pc1\calculadora-IMC\obj\Debug\net6.0\ref\calculadora-IMC.dll
